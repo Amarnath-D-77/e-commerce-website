@@ -1,7 +1,8 @@
 
   # E-Commerce Portal Development
 
-  This is a code bundle for E-Commerce Portal Development. The original project is available at https://www.figma.com/design/Ov0JQEaKr4y4VHjLO1giRo/E-Commerce-Portal-Development
+  This is a code bundle for E-Commerce Portal Development. The original project is available at 
+  https://select-stair-16396009.figma.site/
 
   ## Running the code
 
